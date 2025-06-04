@@ -23,7 +23,7 @@
     "require": {
         "php": "^7.2|^8.0",
         "ext-json": "*",
-        "socialiteproviders/manager": "^3.6"
+        "socialiteproviders/manager": "^3.5"
     },
     "autoload": {
         "psr-4": {
