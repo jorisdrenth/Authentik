@@ -1,3 +1,6 @@
+# DO NOT USE
+Note: this is a fork to get an old PHP 7.2 project connected to Authentik. Do not use this version but use the upstream package.
+
 # Authentik
 
 ```bash
